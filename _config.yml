@@ -1,10 +1,10 @@
 title: fly
-subtitle: ""
+subtitle: a little handsome
 description: a little handsome
 keywords: handsome
 author: luoxiaoshuai3
 language: zh-CN
-timezone: ""
+timezone: Etc/GMT-8
 url: https://luoxiaoshuai3.github.io/fly
 permalink: :title/
 permalink_defaults: null
